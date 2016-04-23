@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MediReminder</string>
+
+    <string name="bLoginLogin">Login</string>
+    <string name="etLoginUsernameHint">Please enter username</string>
+    <string name="etLoginPasswordHint">Please enter password</string>
+    <string name="bSignupSignup">Signup</string>
+    <string name="tvMedicineId">Medicine Id</string>
+    <string name="tvMedicineName">Medicine Name</string>
+    <string name="tvMedicineImage">Medicine Image</string>
+    <string name="tvMedicineDose">Medicine Dose</string>
+    <string name="tvMedicineType">Medicine Type</string>
+    <string name="tvMedicineTime">Time</string>
+    <string name="tvMedicineRepitation">Repitation</string>
+    <string name="tvMedicineDate">Date</string>
+    <string name="addMedicine">Add</string>
+    <string name="updateMedicine">Update</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    Navigation drawer list item icons
+</resources>
